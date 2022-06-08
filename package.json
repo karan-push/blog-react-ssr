@@ -17,6 +17,7 @@
     "author": "Suhan Wijaya",
     "license": "ISC",
     "dependencies": {
+        "@karan-push/fetch-package": "^1.0.2",
         "core-js": "^3.8.2",
         "express": "^4.17.1",
         "react": "^17.0.1",
